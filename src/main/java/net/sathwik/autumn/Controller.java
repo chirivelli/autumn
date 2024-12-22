@@ -1,4 +1,4 @@
-package net.sathwik;
+package net.sathwik.autumn;
 
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
